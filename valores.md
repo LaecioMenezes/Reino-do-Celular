@@ -1,5 +1,5 @@
 # Reino do Celular
- Fornecedor: Israel
+ Fornecedor: X
 
 Note 8 128GB azul = 1.350,00  
 Note 8 128GB Preto = 1.330,00  
