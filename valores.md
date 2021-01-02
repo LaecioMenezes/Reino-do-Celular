@@ -11,7 +11,7 @@ Note 8 64GB branco = 1.180,00
 Note 8 64GB azul = 1.170,00  
 Note 8 64GB preto = 1.160,00  
 Note 9 pro 128GB Cinza/branco = 1.950,00  
-Redmi 9 64GB Cinza / Verde= 1.020,00  
+Redmi 9 64GB Cinza / Verde= 1.100,00  
 Redmi 9 64GB roxo = 1.050,00  
 Redmi 9 32GB Cinza / Verde / Roxo= 920,00  
 Redmi 9A 32GB azul / Verde / Cinza  = 840,00  
@@ -21,5 +21,4 @@ Airdots 2 = 170,00
 Miband 4 - 180,00  
 Miband 5 - 250,00  
 
-teste
 
