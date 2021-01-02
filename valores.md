@@ -20,3 +20,4 @@ Airdots = 150,00
 Airdots 2 = 170,00  
 Miband 4 - 180,00  
 Miband 5 - 250,00  
+
