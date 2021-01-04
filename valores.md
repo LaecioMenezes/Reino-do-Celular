@@ -12,9 +12,9 @@
 📲 Redmi 9 64GB Preto / Azul / Laranja ( Índia ) = 1.100,00  
 📲 Redmi 9 128GB azul ( índia )  = 1.150,00  
 
-🎧Airdots 1  = 150,00
-🎧Airdots 2 = 170,00
-⌚Mi band 4 - 170,00
-⌚Mi band 5 - 220,00
+🎧Airdots 1  = 150,00  
+🎧Airdots 2 = 170,00  
+⌚Mi band 4 - 170,00  
+⌚Mi band 5 - 220,00  
 
 
